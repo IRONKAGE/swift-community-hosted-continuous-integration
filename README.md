@@ -5,6 +5,7 @@
 ## Current List of Nodes
    * Fedora 27
    * ARMv7 for Debian "Stretch"
+   * Arm64 Ubuntu 16.04 LTS for Android
    * Ubuntu 16.04
    * Ubuntu 16.04 for TensorFlow
    * PPC64LE for Ubuntu 16.04 
@@ -13,6 +14,7 @@
    * macOS 10.13 for TensorFlow
    * Ubuntu 16.04 with a GPU for TensorFlow
    * Debian 9.5
+   * Windows 10 (2019) Build 1903 x86_64
 
 ## Add Nodes
 
